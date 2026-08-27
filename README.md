@@ -1,4 +1,4 @@
-# lab-02-4C24-2024-JGM 
+# lab-02-4C24-2024-JDG
 
 Descripción breve del proyecto
 
